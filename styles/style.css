@@ -268,12 +268,14 @@
 
 .kaufman__triangle {
   background-image: url(../images/kaufman-triangle.svg);
+  background-size: cover;
   height: 877px;
   width: 877px;
   position: absolute;
   top: 0;
   right: -210px;
   z-index: -1;
+
 }
 
 .footer__columns {
