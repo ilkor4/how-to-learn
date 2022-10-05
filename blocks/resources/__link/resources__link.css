@@ -1,0 +1,7 @@
+.resources__link {
+  text-decoration: none;
+}
+
+.resources__link:hover {
+  animation: opacity forwards;
+}

@@ -1,0 +1,9 @@
+.table__cell {
+  width: 250px;
+  margin-bottom: 60px;
+  list-style: none;
+}
+
+.table__cell:nth-of-type(n + 5) {
+  margin-bottom: 0;/* убрали нижний отступ для всех элементов, начиная с 5*/
+}

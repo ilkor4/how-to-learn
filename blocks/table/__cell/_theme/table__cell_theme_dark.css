@@ -1,0 +1,11 @@
+/* и элемента с модификатором вида ключ-значение */
+.table__cell_theme_dark {
+  width: 200px;
+  color: white;
+  margin-bottom: 80px;
+  max-height: fit-content;
+}
+
+.table__cell_theme_dark:nth-of-type(n + 6) {
+  margin-bottom: 0;/* убрали нижний отступ для всех элементов, начиная с 6*/
+}
