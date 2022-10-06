@@ -5,7 +5,6 @@
   margin: auto;
   justify-content: space-between;
   flex-direction: row;
-  min-height: 310px;
+  min-height: 350px;
   box-sizing: border-box;
-
 }
