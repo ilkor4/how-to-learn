@@ -1,5 +1,6 @@
 .resources__link {
   text-decoration: none;
+  display: flex;
 }
 
 .resources__link:hover {
