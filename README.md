@@ -20,6 +20,7 @@
 
 ________________________________
 
+Ссылка на проект: https://ilkor4.github.io/how-to-learn/
 
 <h2>Над проектом работал:</h2>
 <h3><a href="https://github.com/ilkor4" target="_blank">Il.kor</a></h3>
